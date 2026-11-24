@@ -1,0 +1,6 @@
+{
+  "name": "Smart Recipe Finder – AI Cooking Assistant",
+  "description": "Discover seasonal vegetarian and non-vegetarian recipes from ingredients in your kitchen, with AI matching, step-by-step instructions, and a smart shopping list.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
